@@ -1,0 +1,25 @@
+
+
+            .header{
+                background-color: aqua;
+                display:flex;
+                justify-content:space-between;
+
+            }
+        
+            .grid{
+                background-color: rgb(212, 175, 154);
+                display:flex;
+                justify-content: space-evenly;
+                
+            }
+            .footer{
+                background-color: rgb(212, 175, 154);
+                display:flex;
+                justify-content:flex-end;
+            }
+            p.h2{
+                background-color: rgb(212, 175, 154);
+
+                text-align:center;
+            }
